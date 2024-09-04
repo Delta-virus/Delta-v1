@@ -12,7 +12,7 @@
 
 # rm -rf Delta-v1
 
-# git clone 
+# git clone https://github.com/Delta-virus/Delta-v1-.git
 
 # cd Delta-v1 
 
